@@ -1,2 +1,2 @@
 # Basic-Banking-App
-it is the Task 2 of GRIP by The Sparks Foundation web development internship
+A native Banking Application built using Java and SQLite as a part of the Graduate Rotational Internship Program (GRIP) at The Sparks Foundation
